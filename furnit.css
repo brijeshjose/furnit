@@ -1,0 +1,23 @@
+@media screen and (max-width:400px){
+    *
+   {
+   margin: 0;
+   padding: 0;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+   }
+   nav
+   {
+    width: 400px;
+   }
+   .row
+   {
+    flex-direction: column;
+    width: 400px;
+   }
+   .col-3
+   {
+    width: 400px;
+    flex-direction: column;
+   }
+}
